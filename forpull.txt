@@ -1,0 +1,7 @@
+the pull request cant be done in commamnd lines 
+that is a fearutre of the git hub
+so u need to go to the github
+
+this file is for to practice pull request
+
+TADADAAAA !!!!!!!!!!!
